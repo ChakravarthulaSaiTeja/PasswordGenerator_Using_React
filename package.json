@@ -1,11 +1,10 @@
 {
-  "homepage": "https://github.com/ChakravarthulaSaiTeja/passwordGenerator_Using_React.git",
+  "homepage": "https://github.com/ChakravarthulaSaiTeja/PasswordGenerator_Using_React.git",
   "name": "04passwordgenerator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
